@@ -1,4 +1,14 @@
 ##  The Old Days
 
-Describe process; order bare metal, get bare metal, name bare metal, install os,
-hand craft server
+* Research and order hardware
+* Hardware is shipped and received
+* Hardware is installed
+* Operating system  and software are installed
+
+- - -
+
+*Weeks later*
+
+- - -
+
+* Server completed

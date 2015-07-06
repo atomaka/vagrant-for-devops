@@ -1,3 +1,4 @@
 ##  But How Can We Take Advantage
 
-This is a new Markdown slide
+By taking advantage of these technologies through the entire development
+process.

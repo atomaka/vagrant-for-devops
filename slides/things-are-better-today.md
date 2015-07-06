@@ -1,3 +1,4 @@
 ##  Things Are Better Today
 
-This is a new Markdown slide
+note:
+    Virtualization primarily has driven this, cloud, etc.
