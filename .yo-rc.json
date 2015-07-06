@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Vagrant for Devops",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
